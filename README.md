@@ -1,1 +1,2 @@
 # Disney-Hotstar-Tableau-Analysis
+Disney+ Content Analysis Project: Conducted an in-depth data visualization project using Tableau to analyze Disney+ movies and TV shows. Explored genre distribution, audience ratings, and temporal trends to uncover key insights and patterns. Developed interactive dashboards to present findings, highlighting Disney's diverse content offerings and audience engagement strategies.
